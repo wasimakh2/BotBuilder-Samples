@@ -18,7 +18,7 @@
     "clone": "^2.1.2",
     "fs-extra": "^8.1.0",
     "get-json": "^1.0.1",
-    "globby": "^9.2.0",
+    "globby": "^10.0.0",
     "json-schema-merge-allof": "^0.6.0",
     "json-schema-ref-parser": "^7.1.0",
     "os": "~0.1.1",
