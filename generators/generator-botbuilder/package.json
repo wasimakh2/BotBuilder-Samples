@@ -23,7 +23,7 @@
         "Microsoft Teams"
     ],
     "dependencies": {
-        "botbuilder": "~4.7.0",
+        "botbuilder": "~4.10.5",
         "chalk": "~2.4.2",
         "lodash": "~4.17.15",
         "mkdirp": "^0.5.1",
