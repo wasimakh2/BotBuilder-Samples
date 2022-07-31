@@ -18,7 +18,7 @@
     "dependencies": {
         "botbuilder": "~4.15.0",
         "dotenv": "^8.2.0",
-        "node-fetch": "^2.6.0",
+        "node-fetch": "^3.2.10",
         "restify": "~8.6.0"
     },
     "devDependencies": {
