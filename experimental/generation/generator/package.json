@@ -12,9 +12,9 @@
   },
   "dependencies": {
     "adaptive-expressions": "next",
-    "botbuilder": "next",
-    "botbuilder-ai": "next",
-    "botbuilder-core": "next",
+    "botbuilder": "4.23.0",
+    "botbuilder-ai": "4.23.0",
+    "botbuilder-core": "4.23.0",
     "botbuilder-dialogs-adaptive": "next",
     "botbuilder-dialogs-adaptive-runtime-core": "next",
     "botbuilder-dialogs-declarative": "next",
